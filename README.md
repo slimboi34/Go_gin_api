@@ -1,2 +1,1 @@
-# Go-API-Tutorial
-Create an API in Go using the Gin framework.
+# Go_api_made_with_theGIN_FRAMEWORK
